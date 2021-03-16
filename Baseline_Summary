@@ -1,0 +1,13 @@
+(I cannot register for the datawhale account since my +86 phone is not available....
+cannot download the data for now, I will come back and revise this note
+
+
+Install packages
+
+Data preprocessing:
+data type adjustment - to int
+split train test set
+
+Train the model
+
+obtain the valuation matrix
